@@ -15,6 +15,7 @@ https://github.com/paboldin/meltdown-exploit
 ```
 $ make
 gcc -O3 -o scsb scsb.c
+
 $ ./run.sh 
 looking for linux_proc_banner in /proc/kallsyms
 protected. requires root
