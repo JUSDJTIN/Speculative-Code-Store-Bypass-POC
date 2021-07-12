@@ -1,5 +1,5 @@
 # Speculative Code Store Bypass POC
-Speculative Code Store Bypass Vulnerability Proof-of-Concept
+Proof-of-Concept of the Speculative Code Store Bypass Vulnerability 
 
 # Description
 Speculative Code Store Bypass (SCSB) is a new transient execution attack which exploits the self-modifying code (SMC) mechanism in Intel processor. 
