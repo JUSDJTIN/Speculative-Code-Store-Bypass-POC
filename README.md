@@ -12,9 +12,9 @@ The Meltdown code borrowed in this POC is at:
 https://github.com/paboldin/meltdown-exploit
 
 # Result
-$ make
+\$ make
 gcc -O3 -o sscb sscb.c
-$ ./run.sh 
+\$ ./run.sh 
 looking for linux_proc_banner in /proc/kallsyms
 protected. requires root
 + find_linux_proc_banner /proc/kallsyms sudo
